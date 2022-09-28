@@ -1,0 +1,7 @@
+my: 
+   greeting:Hello world from config server
+   list:
+     values:One,Two,Three
+connection: connection-string-here-from-config
+     host:127.0.0.1
+	 port:8080
